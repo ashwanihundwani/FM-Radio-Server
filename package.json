@@ -1,0 +1,15 @@
+{
+  "name": "radio_server",
+  "version": "1.0.0",
+  "description": "Radio stations server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.16.2",
+    "mongoose": "^5.3.3"
+  }
+}
